@@ -8,7 +8,7 @@
 ## Description
 A tool for managers to keep track of employee data
 ## Installation
-VS studios, user must have node.js and npm inquirer as well
+VS studios,node.js, npm inquirer, and jest
 ## Credit
 jbedford18
 ## MadeWith
@@ -17,5 +17,5 @@ HTML, JS, node.js, bootstrap
 Any questions? Contact me by email!
 * Email: jbedford@gmail.com
 
-##VIDEO LINK
+VIDEO LINK
 https://drive.google.com/file/d/1AJiulfjdNcyTxyX-7vrWxrT84sWIS9VR/view
