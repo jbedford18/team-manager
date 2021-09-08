@@ -16,3 +16,6 @@ HTML, JS, node.js, bootstrap
 ## Questions
 Any questions? Contact me by email!
 * Email: jbedford@gmail.com
+
+##VIDEO LINK
+https://drive.google.com/file/d/1AJiulfjdNcyTxyX-7vrWxrT84sWIS9VR/view
